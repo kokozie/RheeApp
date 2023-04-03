@@ -27,7 +27,6 @@ class DatabaseHelper {
         profileList.add(profile);
       }
     }
-
     return profileList;
   }
 
